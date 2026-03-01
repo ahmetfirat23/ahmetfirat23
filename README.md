@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am a computer engineering student at Bogazici University. I am currently working on data science and deep learning projects. Previously I developed video games and front-end projects.
+I am a computer engineering student at Bogazici University. I am currently working on data science and deep learning projects. Previously, I developed video games and front-end projects.
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahmetfirat23&langs_count=10&layout=compact&hide=shaderlab,hlsl&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
